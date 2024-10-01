@@ -1,4 +1,3 @@
-
 # Multi-Threaded Client-Server Application
 
 ## Project Overview
